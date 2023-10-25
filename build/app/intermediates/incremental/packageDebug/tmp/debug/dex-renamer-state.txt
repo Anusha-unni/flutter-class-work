@@ -1,0 +1,4 @@
+#Wed Oct 25 09:38:53 IST 2023
+base.0=C\:\\Users\\ANUSHA\\OneDrive\\Documents\\flutter-calculator\\flutter_application_1\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
